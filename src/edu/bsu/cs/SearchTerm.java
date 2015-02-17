@@ -1,0 +1,15 @@
+package edu.bsu.cs;
+
+public enum SearchTerm {
+	PATHOLOGIST,
+	PHYSICIAN,
+	PHARMACIST,
+	SOFTWARE,
+	JAVA,
+	ARCHITECT,
+	MARKETING,
+	NURSE,
+	DIETITIAN,
+	ACCOUNTANT,
+	TEACHER;
+}
